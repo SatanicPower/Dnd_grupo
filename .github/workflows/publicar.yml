@@ -1,0 +1,59 @@
+name: Publicar web de jugadores
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: contenido
+      - uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4.5.2
+          path: quartz
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Preparar contenido
+        run: |
+          rm -rf quartz/content
+          mkdir quartz/content
+          cp -r contenido/* quartz/content/
+          cp contenido/.quartz/quartz.config.ts contenido/.quartz/quartz.layout.ts quartz/
+      - name: Construir
+        working-directory: quartz
+        run: |
+          npm ci
+          npx quartz build
+      - name: No indexar
+        run: |
+          find quartz/public -name '*.html' -exec sed -i 's|<head>|<head><meta name="robots" content="noindex, nofollow">|' {} +
+          printf 'User-agent: *\nDisallow: /\n' > quartz/public/robots.txt
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  desplegar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
