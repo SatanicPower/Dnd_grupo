@@ -6,10 +6,6 @@ title: "El Dorado de las Estrellas"
 
 ## 🕯️ Última sesión: [[Sesión 2]]
 
-## 🗺️ La Marca de Asteria
-
-![[Mapa - La Marca de Asteria.png]]
-
 ## 🎲 Personajes
 
 - [[Baelgrim Escudoluto]]
@@ -24,15 +20,20 @@ title: "El Dorado de las Estrellas"
 
 ## 🗺️ Lugares
 
-- [[El Caldero del Viajero]]
-- [[El muelle]]
-- [[El Yunque Errante]]
-- [[Ermita del Caminate]]
-- [[Ikhison]]
-- [[La Botica del Oso Verde]]
-- [[La Marca de Asteria]]
-- [[La plaza]]
-- [[Los Tres Estribos]]
+- 🗺️ [[La Marca de Asteria]]
+    - Ciudades
+        - 🏰 [[Ikhison]]
+            - Distritos
+                - 🏙️ [[El muelle]]
+                - 🏙️ [[La plaza]]
+                    - Tabernas
+                        - 🍺 [[El Caldero del Viajero]]
+                    - Tiendas
+                        - 🛒 [[El Yunque Errante]]
+                        - 🛒 [[La Botica del Oso Verde]]
+                        - 🛒 [[Los Tres Estribos]]
+    - Mazmorras
+        - 🗝️ [[Ermita del Caminate]]
 
 ## ✨ Deidades
 
