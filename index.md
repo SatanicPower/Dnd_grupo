@@ -47,6 +47,12 @@ Os encontrasteis con [[Alaric Voss]] que os pidió el favor de buscar a los desa
 - [[Moradin]]
 - [[Valdrak]]
 
+## 🎒 Objetos
+
+- [[El Atuendo de Qragara]]
+- [[Escudo de la Redención]]
+- [[Muñeca de tela negra]]
+
 ## 📅 Sesiones
 
 - [[Sesión 1]]
