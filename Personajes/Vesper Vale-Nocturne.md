@@ -27,39 +27,18 @@ tags: ["Jugador"]
 
 ## 📖 Resumen
 
-**La Hija de la Casa de Ceniza**
+Heredera reservada de una familia distinguida. Parece frágil, escucha más de lo que habla y nunca dice todo lo que piensa.
 
-Nació bajo una tormenta imposible en la Casa Vale-Nocturne.
+## 🪞 Apariencia
 
-Desde niña escuchó una voz en las paredes: El Visitante.
+Joven de porte elegante y reservado, con una presencia oscura que contrasta con su edad. Viste de forma refinada, predominando los tonos negros y oscuros, con prendas propias de una familia antigua y distinguida. Su aspecto transmite cierta fragilidad, aunque su mirada y su manera de moverse dejan entrever una personalidad mucho más firme de lo que aparenta.
 
-**El Pacto**
-
-En el Jardín Imposible aceptó un deseo simple:
-
-> “Que alguien me quiera.”
-
-Desde entonces, las sombras la obedecen.
-
-**Poderes**
-
-- Control de sombras
-- Presagios en sueños
-- Influencia sobre la casa
-- Polillas negras como heraldos
+Lleva siempre consigo un pequeño muñeco de tela negro, aparentemente infantil y sencillo, que utiliza como medio para contar historias y canalizar su magia. Las polillas negras están estrechamente vinculadas a su presencia y a su magia, apareciendo ocasionalmente a su alrededor.
 
 ## 🧠 Personalidad
 
-**Problema**
+Reservada, observadora y de pocas palabras, Vesper prefiere escuchar antes que intervenir. Tiene una imaginación muy desarrollada y tiende a interpretar el mundo a través de historias, símbolos y recuerdos.
 
-A veces no sabe si el El Visitante la salvó… o la reclamó.
+Es educada y mantiene las formas incluso en situaciones incómodas, una costumbre adquirida por su pertenencia a la Casa Vale-Nocturne. Sin embargo, bajo esa fachada serena existe una persona desconfiada que rara vez revela completamente lo que piensa o siente.
 
-## 🤝 Relaciones
-
-- El Visitante
-
-## 🗣️ Frases memorables
-
-> [!note]- 📍 Aparece en
-
----
+Tiene un lado sensible y vulnerable que procura ocultar, especialmente cuando se siente juzgada o cuando algo relacionado con su pasado sale a la luz. A pesar de su carácter reservado, desarrolla vínculos profundos con las personas en las que deposita su confianza y puede mostrarse sorprendentemente protectora con ellas.

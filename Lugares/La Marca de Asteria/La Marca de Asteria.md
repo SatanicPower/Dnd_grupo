@@ -34,6 +34,4 @@ tags: ["Region"]
 
 ## 🗺️ Resumen
 
-> [!note]- 📍 Aparece en
-
 ---
