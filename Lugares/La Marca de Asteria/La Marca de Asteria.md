@@ -10,21 +10,27 @@ tags: ["Region"]
 
 ![[La Marca De Asteria.jpg]]
 
-## 📍 Lugares conocidos
+### 🏰 Ciudades y pueblos
 
-- Ciudades
-    - 🏰 [[Ikhison]]
-        - Distritos
-            - 🏙️ [[El muelle]]
-            - 🏙️ [[La plaza]]
-                - Tabernas
-                    - 🍺 [[El Caldero del Viajero]]
-                - Tiendas
-                    - 🛒 [[El Yunque Errante]]
-                    - 🛒 [[La Botica del Oso Verde]]
-                    - 🛒 [[Los Tres Estribos]]
-- Mazmorras
-    - 🗝️ [[Ermita del Caminate]]
+| Nombre | Tipo |
+|---|---|
+| [[Ikhison]] | Ciudad |
+
+### 🗝️ Mazmorras
+
+| Nombre |
+|---|
+| [[Ermita del Camínate]] |
+
+### 📍 Puntos de interés
+
+| Nombre | Tipo |
+|---|---|
+
+### 🏯 Fortalezas
+
+| Nombre |
+|---|
 
 ## 🗺️ Resumen
 

@@ -6,6 +6,9 @@ title: "El Dorado de las Estrellas"
 
 ## 🕯️ Última sesión: [[Sesión 2]]
 
+Os encontrasteis con [[Alaric Voss]] que os pidió el favor de buscar a los desaparecidos, entre ellos estaba su familia. 
+[[Eleniel Lindórië, «Hoja Verde»]] llego a [[Ikhison]] y se unió a El grupo
+
 ## 🎲 Personajes
 
 - [[Baelgrim Escudoluto]]
@@ -33,7 +36,7 @@ title: "El Dorado de las Estrellas"
                         - 🛒 [[La Botica del Oso Verde]]
                         - 🛒 [[Los Tres Estribos]]
     - Mazmorras
-        - 🗝️ [[Ermita del Caminate]]
+        - 🗝️ [[Ermita del Camínate]]
 
 ## ✨ Deidades
 
