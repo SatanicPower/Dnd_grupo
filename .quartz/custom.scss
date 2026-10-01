@@ -8,12 +8,15 @@
 // fundido abajo de -40). ExportarJugadores escribe ![[imagen|banner xy]] como primer párrafo:
 // x e y son letras de a (0 %) a k (100 %) sacadas de banner-x y banner-y. Sin cifras en el
 // texto: Quartz las tomaría por el ancho de la imagen.
-$banner-alto: 350px;
-
+// En el vault el banner mide 350 px de alto a lo ancho de toda la nota (~1300 px): aquí la
+// columna es más estrecha, así que se guarda esa proporción y no la altura (si no, sale la
+// imagen casi entera en vez de una franja).
 img[alt^="banner"] {
   display: block;
   width: 100%;
-  height: $banner-alto;
+  height: auto;
+  aspect-ratio: 1300 / 350;
+  min-height: 140px;
   object-fit: cover;
   object-position: 50% 60%;
   border-radius: 17px;

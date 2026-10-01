@@ -23,7 +23,7 @@ tags: ["Jugador"]
 
 | Objeto | Tipo | Rareza | Poder mágico |
 |---|---|---|---|
-| [[Muñeca de tela negra]] | Reliquia | Legendario | Activo |
+| [[Muñeca de tela negra]] | Reliquia |  |  |
 
 ## 📖 Resumen
 

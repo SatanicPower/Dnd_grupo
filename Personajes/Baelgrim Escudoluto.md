@@ -24,7 +24,7 @@ tags: ["Jugador"]
 
 | Objeto | Tipo | Rareza | Poder mágico |
 |---|---|---|---|
-| [[Escudo de la Redención]] | Escudo | Desconocida | Sellado |
+| [[Escudo de la Redención]] | Escudo |  |  |
 
 ## 📖 Resumen
 

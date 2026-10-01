@@ -6,8 +6,6 @@ tags: ["Objeto"]
 | | |
 |---|---|
 | **Tipo** | Reliquia |
-| **Poder mágico** | Activo |
-| **Rareza** | Legendario |
 
 ## 📖 Descripción
 
@@ -22,25 +20,3 @@ Nadie recuerda quién la fabricó.
 Ni siquiera Vesper.
 
 Lo más extraño es que la muñeca nunca parece deteriorarse. Aunque ha viajado durante años bajo lluvia, nieve y polvo, siempre vuelve a aparecer limpia y remendada como si unas manos invisibles cuidaran de ella.
-
-## ✨ Propiedades mágicas
-
-Cuando Vesper lanza un conjuro, suele recordar una historia concreta.
-
-### Ejemplos
-
-**Armadura de Agathys**
-
-> "La princesa de hielo que durmió durante mil inviernos y despertó rodeada por una corona de escarcha."
-
-**Hex**
-
-> "El rey sin sombra que robaba la suerte de quienes pronunciaban su nombre."
-
-**Misty Step**
-
-> "La niña que aprendió a caminar entre los espacios que existen entre dos parpadeos."
-
-**Darkness**
-
-> "La noche que devoró a las estrellas."
