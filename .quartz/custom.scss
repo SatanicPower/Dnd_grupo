@@ -1,18 +1,50 @@
+@use "sass:list";
 @use "./base.scss";
 
 // Estilos propios de la web de jugadores (Lib/Publicar.js la copia a .quartz/custom.scss y el
 // flujo de publicación a quartz/styles/custom.scss).
 
-// Banner de cabecera de una nota: ExportarJugadores escribe ![[imagen|banner <altura>]], con la
-// altura sacada de su campo banner-y. Sin cifras en el texto: Quartz las tomaría por el ancho.
+// Banner de cabecera, como el de Pixel Banner en las fichas del vault (alto 350, bordes 17,
+// fundido abajo de -40). ExportarJugadores escribe ![[imagen|banner xy]] como primer párrafo:
+// x e y son letras de a (0 %) a k (100 %) sacadas de banner-x y banner-y. Sin cifras en el
+// texto: Quartz las tomaría por el ancho de la imagen.
+$banner-alto: 350px;
+
 img[alt^="banner"] {
+  display: block;
   width: 100%;
-  height: 240px;
+  height: $banner-alto;
   object-fit: cover;
-  border-radius: 8px;
-  object-position: 50% 50%;
+  object-position: 50% 60%;
+  border-radius: 17px;
+  -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
 }
-img[alt="banner arriba"] { object-position: 50% 0%; }
-img[alt="banner alto"] { object-position: 50% 25%; }
-img[alt="banner bajo"] { object-position: 50% 75%; }
-img[alt="banner abajo"] { object-position: 50% 100%; }
+
+$letras: a b c d e f g h i j k;
+@for $x from 1 through 11 {
+  @for $y from 1 through 11 {
+    img[alt="banner #{list.nth($letras, $x)}#{list.nth($letras, $y)}"] {
+      object-position: #{($x - 1) * 10%} #{($y - 1) * 10%};
+    }
+  }
+}
+
+// Arriba del todo, encima del título (como en las fichas): la columna central pasa a ser una
+// columna flexible, el artículo "se deshace" (display: contents) y el párrafo del banner va el
+// primero. Así sigue en el flujo de la página y vale igual en móvil.
+.center:has(article > p:first-child img[alt^="banner"]) {
+  display: flex;
+  flex-direction: column;
+  & > article {
+    display: contents;
+  }
+  & > article > p:first-child {
+    order: -1;
+    margin: 1rem 0 0;
+  }
+  // Quartz deja 6rem encima de la cabecera (con una regla más específica): con banner sobra.
+  & > .page-header {
+    margin-top: 0.5rem !important;
+  }
+}

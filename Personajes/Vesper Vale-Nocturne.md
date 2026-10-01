@@ -3,7 +3,7 @@ title: "Vesper Vale-Nocturne"
 tags: ["Jugador"]
 ---
 
-![[Vesper.jpeg|banner arriba]]
+![[Vesper.jpeg|banner fa]]
 
 | | |
 |---|---|

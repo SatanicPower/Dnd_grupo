@@ -3,7 +3,7 @@ title: "Baelgrim Escudoluto"
 tags: ["Jugador"]
 ---
 
-![[Baelgrim.jpeg|banner arriba]]
+![[Baelgrim.jpeg|banner fb]]
 
 | | |
 |---|---|

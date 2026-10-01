@@ -3,7 +3,7 @@ title: "Eleniel Lindórië, «Hoja Verde»"
 tags: ["Jugador"]
 ---
 
-![[Eleniel.jpeg|banner arriba]]
+![[Eleniel.jpeg|banner fb]]
 
 | | |
 |---|---|

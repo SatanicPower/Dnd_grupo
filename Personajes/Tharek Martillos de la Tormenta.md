@@ -3,7 +3,7 @@ title: "Tharek Martillos de la Tormenta"
 tags: ["Jugador"]
 ---
 
-![[Tharek.jpeg|banner arriba]]
+![[Tharek.jpeg|banner fa]]
 
 | | |
 |---|---|
