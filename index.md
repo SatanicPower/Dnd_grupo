@@ -28,13 +28,6 @@ Os encontrasteis con [[Alaric Voss]] que os pidió el favor de buscar a los desa
         - 🏰 [[Ikhison]]
             - Distritos
                 - 🏙️ [[El muelle]]
-                - 🏙️ [[La plaza]]
-                    - Tabernas
-                        - 🍺 [[El Caldero del Viajero]]
-                    - Tiendas
-                        - 🛒 [[El Yunque Errante]]
-                        - 🛒 [[La Botica del Oso Verde]]
-                        - 🛒 [[Los Tres Estribos]]
     - Mazmorras
         - 🗝️ [[Ermita del Camínate]]
 

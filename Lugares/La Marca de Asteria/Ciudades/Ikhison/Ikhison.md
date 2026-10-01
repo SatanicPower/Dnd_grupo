@@ -13,16 +13,11 @@ tags: ["Ciudad"]
 | Distrito | Ambiente |
 |---|---|
 | [[El muelle]] | Portuario |
-| [[La plaza]] | Comercial |
 
 ### 🏪 Establecimientos
 
 | Nombre | Distrito | Detalle | Precios |
 |---|---|---|---|
-| 🍺 [[El Caldero del Viajero]] | [[La plaza]] | Ruidosa | Barato |
-| 🛒 [[El Yunque Errante]] | [[La plaza]] | Armería | Barato |
-| 🛒 [[La Botica del Oso Verde]] | [[La plaza]] | Alquimia | Barato |
-| 🛒 [[Los Tres Estribos]] | [[La plaza]] | Monturas | Barato |
 
 ### 🧑 Habitantes
 

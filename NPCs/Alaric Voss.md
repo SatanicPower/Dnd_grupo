@@ -5,7 +5,7 @@ tags: ["NPC"]
 
 | | |
 |---|---|
-| **Raza** | Draconido |
+| **Raza** | Humano |
 | **Sexo** | Masculino |
 | **Rol** | Mentor del grupo |
 | **Localización** | [[Ikhison]] |
