@@ -3,7 +3,7 @@ title: "Baelgrim Escudoluto"
 tags: ["Jugador"]
 ---
 
-![[Baelgrim.jpeg]]
+![[Baelgrim.jpeg|banner arriba]]
 
 | | |
 |---|---|
@@ -13,6 +13,18 @@ tags: ["Jugador"]
 | **Sexo** | Masculino |
 | **Estado** | Vivo |
 | **Dioses** | [[Moradin]] |
+
+### 🏳️ Facciones
+
+| Facción | Rango | Estado | 🏅 Renombre |
+|---|---|---|---|
+| [[El grupo]] |  | Activo | 0 |
+
+### 🎒 Pertenencias
+
+| Objeto | Tipo | Rareza | Poder mágico |
+|---|---|---|---|
+| [[Escudo de la Redención]] | Escudo | Desconocida | Sellado |
 
 ## 📖 Resumen
 

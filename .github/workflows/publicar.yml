@@ -35,6 +35,7 @@ jobs:
           mkdir quartz/content
           cp -r contenido/* quartz/content/
           cp contenido/.quartz/quartz.config.ts contenido/.quartz/quartz.layout.ts quartz/
+          if [ -f contenido/.quartz/custom.scss ]; then cp contenido/.quartz/custom.scss quartz/quartz/styles/custom.scss; fi
       - name: Construir
         working-directory: quartz
         run: |

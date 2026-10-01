@@ -3,7 +3,7 @@ title: "Tharek Martillos de la Tormenta"
 tags: ["Jugador"]
 ---
 
-![[Tharek.jpeg]]
+![[Tharek.jpeg|banner arriba]]
 
 | | |
 |---|---|
@@ -13,6 +13,17 @@ tags: ["Jugador"]
 | **Sexo** | Masculino |
 | **Estado** | Vivo |
 | **Dioses** | [[Valdrak]] |
+
+### 🏳️ Facciones
+
+| Facción | Rango | Estado | 🏅 Renombre |
+|---|---|---|---|
+| [[El grupo]] |  | Activo | 0 |
+
+### 🎒 Pertenencias
+
+| Objeto | Tipo | Rareza | Poder mágico |
+|---|---|---|---|
 
 ## 📖 Resumen
 

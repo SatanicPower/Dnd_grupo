@@ -1,0 +1,18 @@
+@use "./base.scss";
+
+// Estilos propios de la web de jugadores (Lib/Publicar.js la copia a .quartz/custom.scss y el
+// flujo de publicación a quartz/styles/custom.scss).
+
+// Banner de cabecera de una nota: ExportarJugadores escribe ![[imagen|banner <altura>]], con la
+// altura sacada de su campo banner-y. Sin cifras en el texto: Quartz las tomaría por el ancho.
+img[alt^="banner"] {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 8px;
+  object-position: 50% 50%;
+}
+img[alt="banner arriba"] { object-position: 50% 0%; }
+img[alt="banner alto"] { object-position: 50% 25%; }
+img[alt="banner bajo"] { object-position: 50% 75%; }
+img[alt="banner abajo"] { object-position: 50% 100%; }

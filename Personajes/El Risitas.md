@@ -11,6 +11,18 @@ tags: ["Jugador"]
 | **Sexo** | Masculino |
 | **Estado** | Vivo |
 
+### 🏳️ Facciones
+
+| Facción | Rango | Estado | 🏅 Renombre |
+|---|---|---|---|
+| [[El grupo]] |  | Activo | 0 |
+
+### 🎒 Pertenencias
+
+| Objeto | Tipo | Rareza | Poder mágico |
+|---|---|---|---|
+| [[El Atuendo de Qragara]] | Armadura |  |  |
+
 ## 📖 Resumen
 
 Ilusionista de circo del Circo Ambulante.

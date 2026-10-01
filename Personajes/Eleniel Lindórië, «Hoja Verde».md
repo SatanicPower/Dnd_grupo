@@ -3,7 +3,7 @@ title: "Eleniel Lindórië, «Hoja Verde»"
 tags: ["Jugador"]
 ---
 
-![[Eleniel.jpeg]]
+![[Eleniel.jpeg|banner arriba]]
 
 | | |
 |---|---|
@@ -12,6 +12,17 @@ tags: ["Jugador"]
 | **Raza** | Elfo |
 | **Sexo** | Femenino |
 | **Estado** | Vivo |
+
+### 🏳️ Facciones
+
+| Facción | Rango | Estado | 🏅 Renombre |
+|---|---|---|---|
+| [[El grupo]] |  | Activo | 0 |
+
+### 🎒 Pertenencias
+
+| Objeto | Tipo | Rareza | Poder mágico |
+|---|---|---|---|
 
 ## 🗣️ Frases memorables
 

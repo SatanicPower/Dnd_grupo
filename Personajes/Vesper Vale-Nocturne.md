@@ -3,7 +3,7 @@ title: "Vesper Vale-Nocturne"
 tags: ["Jugador"]
 ---
 
-![[Vesper.jpeg]]
+![[Vesper.jpeg|banner arriba]]
 
 | | |
 |---|---|
@@ -12,6 +12,18 @@ tags: ["Jugador"]
 | **Raza** | Tiefling |
 | **Sexo** | Femenino |
 | **Estado** | Vivo |
+
+### 🏳️ Facciones
+
+| Facción | Rango | Estado | 🏅 Renombre |
+|---|---|---|---|
+| [[El grupo]] |  | Activo | 0 |
+
+### 🎒 Pertenencias
+
+| Objeto | Tipo | Rareza | Poder mágico |
+|---|---|---|---|
+| [[Muñeca de tela negra]] | Reliquia | Legendario | Activo |
 
 ## 📖 Resumen
 
